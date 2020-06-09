@@ -1,0 +1,82 @@
+[
+  {
+    "id": "01",
+    "photo": "/sample.png",
+    "name": "Услуга 1",
+    "description": "Описание 1",
+    "gender": "male",
+    "age": [18, 25]
+  },
+  {
+    "id": "02",
+    "photo": "/sample.png",
+    "name": "Услуга 2",
+    "description": "Описание 2",
+    "gender": "female",
+    "age": [26, 40]
+  },
+  {
+    "id": "03",
+    "photo": "/sample.png",
+    "name": "Услуга 3",
+    "description": "Описание 3",
+    "gender": "male",
+    "age": [18, 40]
+  },
+  {
+    "id": "04",
+    "photo": "/sample.png",
+    "name": "Услуга 4",
+    "description": "Описание 4",
+    "gender": "female",
+    "age": [26, 40]
+  },
+  {
+    "id": "05",
+    "photo": "/sample.png",
+    "name": "Услуга 5",
+    "description": "Описание 5",
+    "gender": "male",
+    "age": [18, 25]
+  },
+  {
+    "id": "06",
+    "photo": "/sample.png",
+    "name": "Услуга 6",
+    "description": "Описание 6",
+    "gender": "female",
+    "age": [18, 40]
+  },
+  {
+    "id": "07",
+    "photo": "/sample.png",
+    "name": "Услуга 7",
+    "description": "Описание 7",
+    "gender": "male",
+    "age": [26, 40]
+  },
+  {
+    "id": "08",
+    "photo": "/sample.png",
+    "name": "Услуга 8",
+    "description": "Описание 8",
+    "gender": "female",
+    "age": [18, 25]
+  },
+  {
+    "id": "09",
+    "photo": "/sample.png",
+    "name": "Услуга 9",
+    "description": "Описание 9",
+    "gender": "male",
+    "age": [18, 40]
+  },
+  {
+    "id": "10",
+    "photo": "/sample.png",
+    "name": "Услуга 10",
+    "description": "Описание 10",
+    "gender": "female",
+    "age": [26, 40]
+  }
+]
