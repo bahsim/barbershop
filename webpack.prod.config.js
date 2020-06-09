@@ -3,7 +3,7 @@ module.exports = {
   mode: 'production',
 
 	entry: {
-    administrator: [ __dirname + '/client/modules/administrator/index.js' ]
+    index: [ __dirname + '/client/index.js' ]
 	},
 
   output: {
