@@ -35,6 +35,12 @@ const HeaderBase = ({
   }
 
   const handleOnSearchInput = e => {
+    const { value } = e.target
+    
+    if (!value) {
+      searchInData(null)
+    }
+    
     setSearch(e.target.value)
   }
 

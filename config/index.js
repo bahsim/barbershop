@@ -1,8 +1,7 @@
 const Config = function () {
 	return {
-		// appMode:	"production",
-		appMode:	"development",
-		appPort:	"8080",
+		appMode:	process.env.MODE || "development",
+		appPort:	process.env.PORT || "8080",
 
 		pathStatic: "public",
 	};
